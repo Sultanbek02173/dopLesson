@@ -29,3 +29,4 @@ inp.onchange = (event) => {
     
 }
 
+console.log(4 + 5);
